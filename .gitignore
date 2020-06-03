@@ -1,0 +1,12 @@
+python_version/HLS/*
+python_version/.idea/*
+python_version/__pycache__/*
+python_version/assets/*
+python_version/cifar-10-batches-py/*
+python_version/data/*
+python_version/model.nnef/*
+python_version/NNEF-Tools/*
+python_version/Project1/*
+python_version/variables/*
+python_version/model.onnx
+python_version/saved_model.pb
